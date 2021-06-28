@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AnastasiosPas
+- 👋 Hi, I’m Anastasios Pas
 
 - 👀 I’m interested in finding a web developer's position in Amsterdam.
 
 - 🌱 I’m currently learning full stack development with Javascript.
 
-- 📫 How to reach me ... well, through github it is ideal :)
+- 📫 How to reach me ... well, through github, it is ideal :)
 
 
 

@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in finding a web developer's position in Amsterdam.
 
-- 🌱 I’m currently learning full stack development with Javascript.
+- 🌱 I am working on full stack development with Javascript.
 
 - 📫 How to reach me ... well, through github, it is ideal :)
 

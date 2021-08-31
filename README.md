@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anastasios Pas
 
-- 👀 I’m interested in finding a web developer's position in Amsterdam.
+- 👀 I am looking for a web developer's position in Amsterdam.
 
 - 🌱 I am working on full stack development with Javascript.
 

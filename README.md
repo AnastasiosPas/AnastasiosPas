@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anastasios Pas
+- 👋 Hi, this is Anastasios. 
 
 - 👀 I am looking for a web developer's position in Amsterdam.
 

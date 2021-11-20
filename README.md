@@ -2,7 +2,7 @@
 
 - 👀 I am looking for a web developer's position in Amsterdam.
 
-- 🌱 I am working on full stack development with Javascript.
+- 🌱 Web developer with HTML5 | CSS3 | Javascript | React.js | Node.js | PosgreSQL
 
 - 📫 How to reach me ... well, through github, it is ideal :)
 

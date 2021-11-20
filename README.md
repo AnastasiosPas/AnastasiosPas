@@ -4,7 +4,7 @@
 
 - 👀 Currently looking for a web developer's position in or around Amsterdam.
 
-- 📫 How to reach me ... well, through github, it is ideal :)
+- 📫 How to reach me ... emailto="tassos_pasalis@mac.com" 😉
 
 
 ### Languages and Technologies

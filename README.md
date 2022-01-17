@@ -1,10 +1,6 @@
-👋 Hi, this is Anastasios. 
+Hi trhere, this is Anastasios. 👋
 
-🌱 I am a Web developer.
-
-👀 Currently looking for a web developer's position in or around Amsterdam.
-
-📫 How to reach me ... emailto="tassos_pasalis@mac.com" 😉
+I am open for a web developer's position in or around Amsterdam.
 
 
 ### Languages and Technologies

@@ -1,4 +1,4 @@
-Hi trhere, this is Anastasios. 👋
+Hi there, this is Anastasios. 👋
 
 I am open for a web developer's position in or around Amsterdam.
 
